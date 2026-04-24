@@ -1,0 +1,11 @@
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\MQTTSubscribeServer.c
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\MQTTPacket.h
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\MQTTConnect.h
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\MQTTPublish.h
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\MQTTSubscribe.h
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\MQTTUnsubscribe.h
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\MQTTFormat.h
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\StackTrace.h
+01_getway\mqttsubscribeserver.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+01_getway\mqttsubscribeserver.o: ..\Int\MQTT\MQTTPacket\src\MQTTPacket.h
+01_getway\mqttsubscribeserver.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

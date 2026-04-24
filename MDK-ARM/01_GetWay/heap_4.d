@@ -1,0 +1,14 @@
+01_getway\heap_4.o: ..\Mid\FreeRTOS\portable\MemMang\heap_4.c
+01_getway\heap_4.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+01_getway\heap_4.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+01_getway\heap_4.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+01_getway\heap_4.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/include/FreeRTOSConfig.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/include/projdefs.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/include/portable.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/portable/RVDS/portmacro.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/include/task.h
+01_getway\heap_4.o: ../Mid/FreeRTOS/include/list.h

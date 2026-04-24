@@ -1,0 +1,15 @@
+01_getway\event_groups.o: ..\Mid\FreeRTOS\source\event_groups.c
+01_getway\event_groups.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+01_getway\event_groups.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+01_getway\event_groups.o: F:\ITtool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/FreeRTOSConfig.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/projdefs.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/portable.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/portable/RVDS/portmacro.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/task.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/list.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/timers.h
+01_getway\event_groups.o: ../Mid/FreeRTOS/include/event_groups.h
